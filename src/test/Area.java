@@ -17,7 +17,7 @@ public class Area {
 		int area_square = a*a;
 		System.out.println(area_square);
 		//area of reactangle
-		input.close();
+		//input.close();
 	
 		
 

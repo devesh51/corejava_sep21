@@ -12,12 +12,7 @@ public class Calculator {
 		int sum;
 		sum=num1+num2;
 		System.out.println("the sum of two numbers are "+sum);
-		void add(10,70);
 
-	}
-	void add(int num3, int num4) {
-		s=num3 + num4;
-		System.out.println(s);
 	}
 	
 
